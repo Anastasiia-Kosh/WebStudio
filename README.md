@@ -79,6 +79,6 @@ goit-markup-hw-06/
 
 [Anastasiia Kosh](https://github.com/Anastasiia-Kosh)
 
-# goit-markup-hw-06
+# Макет
 
-HW-06_WebStudio
+[Figma](https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio--Version-5.0-?node-id=570573-1472&t=GF2iWzHjXuURgdW2-0)
